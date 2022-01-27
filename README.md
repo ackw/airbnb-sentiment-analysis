@@ -1,9 +1,10 @@
 # Airbnb Sentiment Analysis
 Dataset source: https://www.kaggle.com/airbnb/seattle
 ## VADER Sentiment Analysis of Airbnb Reviews
-Mostly positive user reviews are observed.
+Mostly positive user reviews are observed, and some without any sentiments detected.
 
-![Unknown](https://user-images.githubusercontent.com/69747121/151306691-40a1f059-0d5f-46c3-96df-63638b4ee3b8.png)
+![Unknown](https://user-images.githubusercontent.com/69747121/151316070-5ac5fb90-e09a-4238-a90d-4706e7169fbe.png)
+
 
 ## Price Clustering of Airbnb Listings
 3 clusters of prices can be observed - low, medium and high
